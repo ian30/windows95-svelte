@@ -2,7 +2,7 @@
 	import '$lib/global.css';
 	import Icon from '../components/Icon.svelte';
 	import StartButton from '../components/StartButton.svelte';
-	import SystemTray from '../components/SystemTray.svelte';
+	import SystemTray from '../components/systemTray.svelte';
 	import Taskbar from '../components/Taskbar.svelte';
 	import Desktop from '../components/Desktop.svelte';
 </script>
